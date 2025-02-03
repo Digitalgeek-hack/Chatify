@@ -98,7 +98,7 @@ License
 This project is licensed under the MIT License.
 
 # Author
-Created with passion by *Darrell Mucheri.* Feel free to reach out for collaboration or feedback!
+Created with passion by *jarix 🇨🇲.* Feel free to reach out for collaboration or feedback!
 
 
 
