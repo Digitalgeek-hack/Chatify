@@ -85,5 +85,5 @@ io.on('connection', (socket) => {
 // Start the server
 const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
-  console.log(`Created by @Darrell Mucheri(🇿🇼)\n\nServer is running on http://localhost:${PORT}`);
+  console.log(`Created by @jarix (🇨🇲)\n\nServer is running on http://localhost:${PORT}`);
 });
